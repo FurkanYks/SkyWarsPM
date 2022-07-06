@@ -2,10 +2,11 @@
 PocketMine API 4.x.x advanced SkyWars plugin adapted like a hypixel.
 The plugin will be constantly improved. The open source codes of the plugin will be encrypted until my plugin reaches 100 stars.
 ## Features
-- Scoreboard
-- Chest Refill
+- Scoreboard -> Shows information about the game within the game.
+- Chest Refill -> Auto Renews chests
 - Customizable Chest items and Enchantable items.
 - Normal & Insane Game Modes
+- Solo & Doubles Game Modes -> doubles not available in current version wait update.
 - Easily Create And Manage Map
 - Advanced Chest System (2 Chest types: Normal, Insane)
 - Spectator Mode
