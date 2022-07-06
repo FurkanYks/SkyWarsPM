@@ -2,4 +2,22 @@
 PocketMine API 4.x.x advanced SkyWars plugin adapted like a hypixel.
 The plugin will be constantly improved. The open source codes of the plugin will be encrypted until my plugin reaches 100 stars.
 ## Features
-- Waiting Lobby
+- Scoreboard
+- Chest Refill
+- Customizable Chest items and Enchantable items.
+- Normal & Insane Game Modes
+- Easily Create And Manage Map
+- Advanced Chest System (2 Chest types: Normal, Insane)
+- Spectator Mode
+- Unlimited Arena Create
+- Spectator Mode items: Leave Game, Play Again, Teleport Player
+- Customizable Kill Messages
+- Customizable Settings Messages
+- Kills LeaderBoard when the game finishes it shows leaderboard.
+- SkyWars Kits copied like hypixel kits.
+- Experience System
+- Coin System
+- Level System
+- Soul System
+- Soul Crate like hypixel
+- Game Stats: kills, deaths, coins, souls, experiences and more. 
