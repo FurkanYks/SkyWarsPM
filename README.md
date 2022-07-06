@@ -26,3 +26,20 @@ The plugin will be constantly improved. The open source codes of the plugin will
 
 there are thousands more features in this plugin that are not written here. would you like to try?
 (:
+## Commands
+
+| Command | Parameter | Description | Permission |
+| :-----: | :-------: | :---------: | :-------: |
+| /sw |`<args>` | Main SkyWars Command | `All` |
+| /sw lobby | | back to skywars main lobby | `All` |
+| /sw help | | lists all commands | `All` |
+| /sw shop | | Opens skywars shop | `All` |
+| /sw stats | | Show the player stats | `ALL`|
+| /sw profile | | View your or someones profiles | `ALL` |
+| /sw create | | create an skywars arena | `OP` |
+| /sw coinadd | `<Player Name> <Amount>` | add coins to specified player | `OP` |
+| /sw npc | `<Solo ? Doubles>` | create skywars join npc's in skywars lobby. | `OP` |
+| /sw join | | join skywars lobby. | `All` |
+| /sw settings | | SkyWars settings. | `OP` |
+| /sw setlobby | | Set the skywars lobby. | `OP` |
+
