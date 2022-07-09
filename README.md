@@ -1,5 +1,5 @@
 # SkyWarsPM
-PocketMine API 4.x.x advanced SkyWars plugin adapted like a hypixel.
+PocketMine API 5.x.x advanced SkyWars plugin adapted like a hypixel.
 The plugin will be constantly improved. The open source codes of the plugin will be encrypted until my plugin reaches 100 stars.
 ## Features
 - Scoreboard -> Shows information about the game within the game.
@@ -30,16 +30,24 @@ there are thousands more features in this plugin that are not written here. woul
 
 | Command | Parameter | Description | Permission |
 | :-----: | :-------: | :---------: | :-------: |
-| /sw |`<args>` | Main SkyWars Command | `All` |
+| /sw |`<args>` | Shows list of commands | `All` |
 | /sw lobby | | back to skywars main lobby | `All` |
 | /sw help | | lists all commands | `All` |
 | /sw shop | | Opens skywars shop | `All` |
 | /sw stats | | Show the player stats | `ALL`|
 | /sw profile | | View your or someones profiles | `ALL` |
-| /sw create | | create an skywars arena | `OP` |
+| /sw create | | create an skywars arena! | `OP` |
 | /sw coinadd | `<Player Name> <Amount>` | add coins to specified player | `OP` |
-| /sw npc | `<Solo ? Doubles>` | create skywars join npc's in skywars lobby. | `OP` |
-| /sw join | | join skywars lobby. | `All` |
+| /sw npc | `<Solo ? Doubles>` | create skywars join npc's gui in skywars lobby. | `OP` |
+| /sw join | | puts you in the skywars game lobby. | `All` |
+| /sw leave | | removes you from the game! | `All` |
+| /sw autojoin | | puts you in best available arena! | `All` |
+| /sw list | | shows you available all game arena's | `All` |
 | /sw settings | | SkyWars settings. | `OP` |
 | /sw setlobby | | Set the skywars lobby. | `OP` |
+| /sw addspawn | | adds a spawnpoint to an arena! | `OP` |
+| /sw delete | | deletes an existing arena! | `OP` |
+| /sw addbooster | | adds a coin & exp booster | `OP` |
+| /sw reset | | resets a player stats | `OP` |
+| /sw chestmanager | | allows to modify chest types | `OP` |
 
