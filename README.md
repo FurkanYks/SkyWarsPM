@@ -44,7 +44,7 @@ there are thousands more features in this plugin that are not written here. woul
 | /sw autojoin | | puts you in best available arena! | `All` |
 | /sw list | | shows you available all game arena's | `All` |
 | /sw settings | | SkyWars settings. | `OP` |
-| /sw setlobby | | Set the skywars lobby. | `OP` |
+| /sw setlobby | | Sets the lobby location! | `OP` |
 | /sw addspawn | | adds a spawnpoint to an arena! | `OP` |
 | /sw delete | | deletes an existing arena! | `OP` |
 | /sw addbooster | | adds a coin & exp booster | `OP` |
