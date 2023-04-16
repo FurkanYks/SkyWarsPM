@@ -1,7 +1,7 @@
 <h1>SkyWarsPM<img src="https://cdn.discordapp.com/attachments/986639429605138442/995799356085125121/SkyWarsPM.jpg" height="150" width="150" align="right"></img></h1>
 
-PocketMine API 5.x.x advanced SkyWars plugin adapted like a hypixel.
-The plugin will be constantly improved. The open source codes of the plugin will be encrypted until my plugin reaches 100 stars.
+PocketMine API 4.x.x advanced SkyWars plugin adapted like a hypixel.
+The plugin will be constantly improved. The open source codes of the plugin.
 
 ## Features
 - Scoreboard -> Shows information about the game within the game.
